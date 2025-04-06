@@ -1,1 +1,1 @@
-# connect-jerkins-to-github-challenge
+# connect-jenkins-to-github-challenge
